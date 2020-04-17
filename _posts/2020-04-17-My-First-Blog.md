@@ -1,6 +1,6 @@
 ---
 layout: article
-title: My First Blog
+title: 我的第一篇博客
 mathjax: true
 land: zh-Hans
 tags: casual thoughts
