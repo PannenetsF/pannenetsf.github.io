@@ -3,7 +3,7 @@ layout: article
 title: 我的第一篇博客
 mathjax: true
 land: zh-Hans
-tags: casual thoughts
+tags: 随笔
 ---
 
 一个烦躁的夜晚. 
